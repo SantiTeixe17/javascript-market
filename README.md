@@ -1,8 +1,8 @@
 # marketshop
 
-This project was created to show the step by step in a list of video tutorials on how to make a store using pure javascript with local storage.
 
-Always looking for the simplest possible way to make the code so that those who are starting in programming can follow it. 
+
+
 
 
 <div align="center" display="inline">
